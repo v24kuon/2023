@@ -15,3 +15,4 @@ ddd
 おおお
 kaka
 きき
+kuku
